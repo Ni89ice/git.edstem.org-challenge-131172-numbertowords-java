@@ -10,5 +10,7 @@ public class NumberToWords {
 
     public static void main(String[] args) {
 		//Write your code here 
+    System.out.println(Value: );
+    int value = In.nextInt();
 	}
 }
